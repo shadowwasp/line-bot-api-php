@@ -1,2 +1,2 @@
 <?php
-echo "shadow IoT <=> LINEBOT API";
+echo "shadow IoT.. <=> LINEBOT API";
